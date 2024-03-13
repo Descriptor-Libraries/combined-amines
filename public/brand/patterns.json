@@ -1,0 +1,12 @@
+[
+    {
+        "primary": {
+            "name": "primary",
+            "color": "#5C6F28"
+        },
+        "secondary": {
+            "name": "secondary",
+            "color": "#E36414"
+        }
+    }
+]
