@@ -6,7 +6,7 @@
 
 ## Molecule Identification
 
-Molecules from the [primary](https://descriptor-libraries.molssi.org/primary-amines) and [secondary](https://descriptor-libraries.molssi.org/primary-amines) alkyl amine libraries were combined. These molecules were identified from the Reaxys database, Broad Institute’s Drug Repurposing Hub, and Enamine Building Blocks as described on the respective library pages. 
+Molecules from the [primary](https://descriptor-libraries.molssi.org/primary-amines) and [secondary](https://descriptor-libraries.molssi.org/secondary-amines) alkyl amine libraries were combined. These molecules were identified from the Reaxys database, Broad Institute’s Drug Repurposing Hub, and Enamine Building Blocks as described on the respective library pages. 
 
 ## Conformational Searching & Conformer Selection
 
